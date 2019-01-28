@@ -56,7 +56,7 @@
 		C5B84F3021FE92B600FBBB2A /* 2019_shSwift */ = {
 			isa = PBXGroup;
 			children = (
-				C5B84F4521FEA6B600FBBB2A /* sh_Resource */,
+				C5B84F4521FEA6B600FBBB2A /* resourceSH */,
 				C5B84F3121FE92B600FBBB2A /* AppDelegate.swift */,
 				C5B84F3321FE92B600FBBB2A /* ViewController.swift */,
 				C5B84F3521FE92B600FBBB2A /* Main.storyboard */,
@@ -67,12 +67,12 @@
 			path = 2019_shSwift;
 			sourceTree = "<group>";
 		};
-		C5B84F4521FEA6B600FBBB2A /* sh_Resource */ = {
+		C5B84F4521FEA6B600FBBB2A /* resourceSH */ = {
 			isa = PBXGroup;
 			children = (
 				C5B84F4321FEA6A500FBBB2A /* 29.jpg */,
 			);
-			name = sh_Resource;
+			name = resourceSH;
 			path = "노_ㄱㄷ내ㅕㄱㅊㄷ";
 			sourceTree = "<group>";
 		};
